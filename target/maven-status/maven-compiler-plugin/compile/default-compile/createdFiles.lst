@@ -1,0 +1,3 @@
+cn\chouchou\App.class
+cn\chouchou\entity\SysUser.class
+cn\chouchou\dao\SysUserMapper.class
